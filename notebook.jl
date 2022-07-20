@@ -43,6 +43,7 @@ The images need to have x and y dims flipped as well as a channel dim added. Lab
 
 # ╔═╡ 02a2e5a9-4b5c-43cb-8693-74fc3f2d9f45
 begin
+	ENV["DATADEPS_ALWAYS_ACCEPT"] = true
 	train = MNIST(:train)
 	test = MNIST(:test)
 	
