@@ -1,0 +1,8 @@
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+ProgressLogging = "33c8b6b6-d38a-422a-b730-caa89a2f386c"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
